@@ -1,0 +1,23 @@
+
+.red{
+  background-color: #990000;
+}
+.black{
+  background-color: rgba(0, 0, 0, 0.46);
+}
+th{
+  background: rgb(0, 0, 0);
+  color: aliceblue;
+
+}
+a{
+  color: black;
+}
+ul{
+  list-style-type: none;
+}
+li{
+  color: black;
+  font-size: 24px;
+}
+
